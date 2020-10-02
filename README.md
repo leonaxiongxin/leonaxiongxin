@@ -1,12 +1,12 @@
-##  👋
+##  👋 Welcome
 
-### :ok_woman: Currently a master student 
+### :ok_woman: 
 
 2018.09 - 2021.06, M.Sc., Nanjing University, Information Science.
 
 2014.09 - 2018.06, B.Sc., Nanjing University, Information Management and Information System.
 
-### 🚀 Going to work for ByteDance after graduation
+### 🚀 
 
 2020.05 - 2020.08, Front End Engineering Intern, Meituan, Beijing.
 
