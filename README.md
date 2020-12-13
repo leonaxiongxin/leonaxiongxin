@@ -1,6 +1,6 @@
 ##  Xiong Xin
 
-![Xiong Xin's github stats](https://github-readme-stats.vercel.app/api?username=leonaxiongxin&show_icons=true&theme=radical)
+![Xiong Xin's github stats](https://github-readme-stats.vercel.app/api?username=leonaxiongxin&show_icons=true&theme=tokyonight)
 
 <!--
 **leonaxiongxin/leonaxiongxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
